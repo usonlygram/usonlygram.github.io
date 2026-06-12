@@ -180,6 +180,38 @@ const renderGallery = (store, filter = "todos") => {
   observeReveal();
 };
 
+const renderLetters = (store) => {
+  $("#letters").innerHTML = `
+    <div class="hero-panel reveal">
+      <div>
+        <p class="eyebrow">cartas do coração</p>
+        <h1>Palavras que eternizam o que sentimos.</h1>
+        <p>Cada carta é um pedaço do nosso coração posto em papel, mensagens que guardamos para sempre.</p>
+      </div>
+    </div>
+    <div class="letters-list">
+      ${store.cartas
+        .map(
+          (carta) => `
+        <article class="letter-card reveal">
+          <div class="letter-image">
+            <img src="${carta.imagem}" alt="${carta.titulo}" loading="lazy" />
+          </div>
+          <div class="letter-content">
+            <p class="letter-number">${carta.numero}</p>
+            <p class="letter-date">${formatDate(carta.data)}</p>
+            <h3>${carta.titulo}</h3>
+            <p class="letter-resumo">${carta.resumo}</p>
+            <button class="letter-button" type="button" data-letter-id="${carta.id}" aria-label="Ler ${carta.titulo}">Ler Carta Completa</button>
+          </div>
+        </article>`
+        )
+        .join("")}
+    </div>
+  `;
+  observeReveal();
+};
+
 const setRoute = (route) => {
   state.route = route;
   $$(".page").forEach((page) => page.classList.toggle("is-visible", page.dataset.page === route));
@@ -193,6 +225,31 @@ const openComments = (store, postId) => {
   $("#commentsTitle").textContent = `Comentários · ${post.title}`;
   renderComments(store);
   $("#commentsModal").showModal();
+};
+
+const openLetter = (store, letterId) => {
+  const carta = store.cartas.find((item) => item.id === parseInt(letterId));
+  if (!carta) {
+    console.error('Carta não encontrada:', letterId);
+    return;
+  }
+  $("#letterTitle").textContent = carta.titulo;
+  $("#letterContent").innerHTML = `
+    <div class="letter-view">
+      <div class="letter-header">
+        <p class="letter-number">${carta.numero}</p>
+        <p class="letter-date">${formatDate(carta.data)}</p>
+        <h2>${carta.titulo}</h2>
+      </div>
+      <div class="letter-image">
+        <img src="${carta.imagem}" alt="${carta.titulo}" />
+      </div>
+      <div class="letter-text">
+        ${carta.texto.split('\n\n').map(p => `<p>${p}</p>`).join('')}
+      </div>
+    </div>
+  `;
+  $("#letterModal").showModal();
 };
 
 const renderComments = (store) => {
@@ -245,6 +302,9 @@ const bindEvents = (store) => {
 
     const filterButton = event.target.closest("[data-filter]");
     if (filterButton) renderGallery(store, filterButton.dataset.filter);
+
+    const letterButton = event.target.closest("[data-letter-id]");
+    if (letterButton) openLetter(store, letterButton.dataset.letterId);
   });
 
   $("#loadMoreButton").addEventListener("click", () => {
@@ -253,6 +313,7 @@ const bindEvents = (store) => {
   });
 
   $("#closeComments").addEventListener("click", () => $("#commentsModal").close());
+  $("#closeLetter").addEventListener("click", () => $("#letterModal").close());
   $("#commentForm").addEventListener("submit", (event) => {
     event.preventDefault();
     const input = $("#commentInput");
@@ -318,6 +379,11 @@ const init = async () => {
   renderProfile(store);
   renderTimeline(store);
   renderStory(store);
+  try {
+    renderLetters(store);
+  } catch (e) {
+    console.error('Erro ao renderizar cartas:', e);
+  }
   renderGallery(store);
   renderFeed(store);
   bindEvents(store);

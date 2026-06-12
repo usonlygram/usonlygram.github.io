@@ -39,10 +39,11 @@ const persist = (state) => {
 };
 
 export const createStore = async () => {
-  const [posts, likesText, commentsText] = await Promise.all([
+  const [posts, likesText, commentsText, cartasData] = await Promise.all([
     fetch("./data/posts.json").then((response) => response.json()),
     fetch("./data/likes.txt").then((response) => response.text()),
-    fetch("./data/comments.txt").then((response) => response.text())
+    fetch("./data/comments.txt").then((response) => response.text()),
+    fetch("./data/cartas.json").then((response) => response.json())
   ]);
 
   const seed = {
@@ -64,6 +65,7 @@ export const createStore = async () => {
 
   return {
     data: posts,
+    cartas: cartasData.cartas || [],
     getLikeCount(postId) {
       return state.likes[postId] || 0;
     },
