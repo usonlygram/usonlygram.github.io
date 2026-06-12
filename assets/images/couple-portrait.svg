@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 900">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ff5f8f"/><stop offset=".55" stop-color="#21141d"/><stop offset="1" stop-color="#8fe7d1"/></linearGradient></defs>
+  <rect width="900" height="900" fill="url(#g)"/>
+  <circle cx="314" cy="330" r="96" fill="#fff8f5" opacity=".92"/>
+  <circle cx="570" cy="330" r="96" fill="#f6c36a" opacity=".92"/>
+  <path d="M166 734c30-156 123-234 278-234s248 78 278 234" fill="#120b16" opacity=".64"/>
+  <path d="M380 485c54 70 109 70 164 0" fill="none" stroke="#fff8f5" stroke-width="18" stroke-linecap="round"/>
+  <text x="450" y="820" text-anchor="middle" font-family="Arial" font-size="42" font-weight="700" fill="#fff8f5">Nós dois</text>
+</svg>

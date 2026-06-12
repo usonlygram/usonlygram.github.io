@@ -1,0 +1,2260 @@
+{
+  "couple": {
+    "names": "Nós dois",
+    "handle": "@usonlygram",
+    "relationshipStart": "2023-12-23",
+    "avatar": "./fotos/18-10-2025-primeira-viagem-a-dois-9.jpeg",
+    "bio": "Uma coleção privada de instantes, risos, viagens, planos e promessas pequenas que viraram casa.",
+    "stats": {
+      "trips": 19,
+      "specialDates": 12
+    }
+  },
+  "story": [
+    {
+      "title": "Primeiro Encontro",
+      "text": "A memória que virou ponto de partida para tudo que a gente ainda está construindo.",
+      "image": "./fotos/23-12-2023-primeiro-encontro-2.jpeg",
+      "date": "2023-12-23"
+    },
+    {
+      "title": "Primeiro Encontro",
+      "text": "A memória que virou ponto de partida para tudo que a gente ainda está construindo.",
+      "image": "./fotos/23-12-2023-primeiro-encontro.jpeg",
+      "date": "2023-12-23"
+    },
+    {
+      "title": "Segundo Encontro",
+      "text": "Mais uma vez escolhendo ficar perto, rindo fácil e criando lembranças sem perceber.",
+      "image": "./fotos/13-01-2024-segundo-encontro.jpeg",
+      "date": "2024-01-13"
+    },
+    {
+      "title": "Primeiro Aniversario Ca Juntos Primeiro Eu Te Amo",
+      "text": "Celebrar a vida ficou ainda melhor desde que virou também uma forma de celebrar nós dois.",
+      "image": "./fotos/25-01-2024-primeiro-aniversario-ca-juntos-primeiro-eu-te-amo.jpeg",
+      "date": "2024-01-25"
+    },
+    {
+      "title": "Terceiro Encontro",
+      "text": "Mais uma vez escolhendo ficar perto, rindo fácil e criando lembranças sem perceber.",
+      "image": "./fotos/02-03-2024-terceiro-encontro.jpeg",
+      "date": "2024-03-02"
+    },
+    {
+      "title": "Primeiro Dia Dos Namorados",
+      "text": "Mais uma lembrança nossa guardada com cuidado nesse álbum particular.",
+      "image": "./fotos/12-06-2024-primeiro-dia-dos-namorados.jpeg",
+      "date": "2024-06-12"
+    },
+    {
+      "title": "Primeiro Natal Juntos",
+      "text": "Nosso primeiro Natal juntos guardado como um capítulo quente, bonito e cheio de afeto.",
+      "image": "./fotos/24-12-2024-primeiro-natal-juntos.jpeg",
+      "date": "2024-12-24"
+    },
+    {
+      "title": "Primeiro Aniversario Gu Juntos",
+      "text": "Celebrar a vida ficou ainda melhor desde que virou também uma forma de celebrar nós dois.",
+      "image": "./fotos/30-12-2024-primeiro-aniversario-gu-juntos.jpeg",
+      "date": "2024-12-30"
+    },
+    {
+      "title": "Primeira Viagem Com Familia Da Ca Florianópolis",
+      "text": "Uma viagem, muitos detalhes e a certeza bonita de que o caminho fica melhor quando é com você.",
+      "image": "./fotos/23-04-2025-primeira-viagem-com-familia-da-ca-florianopolis-2.jpeg",
+      "date": "2025-04-23"
+    },
+    {
+      "title": "Primeira Viagem Com Familia Da Ca Florianópolis",
+      "text": "Uma viagem, muitos detalhes e a certeza bonita de que o caminho fica melhor quando é com você.",
+      "image": "./fotos/23-04-2025-primeira-viagem-com-familia-da-ca-florianopolis-3.jpeg",
+      "date": "2025-04-23"
+    },
+    {
+      "title": "Primeira Viagem Com Familia Da Ca Florianópolis",
+      "text": "Uma viagem, muitos detalhes e a certeza bonita de que o caminho fica melhor quando é com você.",
+      "image": "./fotos/23-04-2025-primeira-viagem-com-familia-da-ca-florianopolis-4.jpeg",
+      "date": "2025-04-23"
+    },
+    {
+      "title": "Primeira Viagem Com Familia Da Ca Florianópolis",
+      "text": "Uma viagem, muitos detalhes e a certeza bonita de que o caminho fica melhor quando é com você.",
+      "image": "./fotos/23-04-2025-primeira-viagem-com-familia-da-ca-florianopolis-5.jpeg",
+      "date": "2025-04-23"
+    },
+    {
+      "title": "Primeira Viagem Com Familia Da Ca Florianópolis",
+      "text": "Uma viagem, muitos detalhes e a certeza bonita de que o caminho fica melhor quando é com você.",
+      "image": "./fotos/23-04-2025-primeira-viagem-com-familia-da-ca-florianopolis-6.jpeg",
+      "date": "2025-04-23"
+    },
+    {
+      "title": "Primeira Viagem Com Familia Da Ca Florianópolis",
+      "text": "Uma viagem, muitos detalhes e a certeza bonita de que o caminho fica melhor quando é com você.",
+      "image": "./fotos/23-04-2025-primeira-viagem-com-familia-da-ca-florianopolis-7.jpeg",
+      "date": "2025-04-23"
+    },
+    {
+      "title": "Primeira Viagem Com Familia Da Ca Florianópolis",
+      "text": "Uma viagem, muitos detalhes e a certeza bonita de que o caminho fica melhor quando é com você.",
+      "image": "./fotos/23-04-2025-primeira-viagem-com-familia-da-ca-florianopolis.jpeg",
+      "date": "2025-04-23"
+    },
+    {
+      "title": "Passeio Na Republica Centro De S2",
+      "text": "Mais uma lembrança nossa guardada com cuidado nesse álbum particular.",
+      "image": "./fotos/17-05-2025-passeio-na-republica-centro-de-s2.jpeg",
+      "date": "2025-05-17"
+    },
+    {
+      "title": "Passeio Na Republica Centro De SP",
+      "text": "Mais uma lembrança nossa guardada com cuidado nesse álbum particular.",
+      "image": "./fotos/17-05-2025-passeio-na-republica-centro-de-sp-3.jpeg",
+      "date": "2025-05-17"
+    },
+    {
+      "title": "Passeio Na Republica Centro De SP",
+      "text": "Mais uma lembrança nossa guardada com cuidado nesse álbum particular.",
+      "image": "./fotos/17-05-2025-passeio-na-republica-centro-de-sp.jpeg",
+      "date": "2025-05-17"
+    },
+    {
+      "title": "Ligacao",
+      "text": "Mais uma lembrança nossa guardada com cuidado nesse álbum particular.",
+      "image": "./fotos/10-07-2025-ligacao-2.jpeg",
+      "date": "2025-07-10"
+    },
+    {
+      "title": "Ligacao",
+      "text": "Mais uma lembrança nossa guardada com cuidado nesse álbum particular.",
+      "image": "./fotos/10-07-2025-ligacao.jpeg",
+      "date": "2025-07-10"
+    },
+    {
+      "title": "Besteiras",
+      "text": "Mais uma lembrança nossa guardada com cuidado nesse álbum particular.",
+      "image": "./fotos/13-07-205-besteiras-2.jpeg",
+      "date": "2025-07-13"
+    },
+    {
+      "title": "Besteiras",
+      "text": "Mais uma lembrança nossa guardada com cuidado nesse álbum particular.",
+      "image": "./fotos/13-07-205-besteiras.jpeg",
+      "date": "2025-07-13"
+    },
+    {
+      "title": "Cinema",
+      "text": "Filme, risadas e o tipo de companhia que faz até o caminho de volta virar memória.",
+      "image": "./fotos/13-07-205-cinema-2.jpeg",
+      "date": "2025-07-13"
+    },
+    {
+      "title": "Cinema",
+      "text": "Filme, risadas e o tipo de companhia que faz até o caminho de volta virar memória.",
+      "image": "./fotos/13-07-205-cinema.jpeg",
+      "date": "2025-07-13"
+    },
+    {
+      "title": "Role Com Meu Amor",
+      "text": "Mais uma lembrança nossa guardada com cuidado nesse álbum particular.",
+      "image": "./fotos/19-07-2025-role-com-meu-amor-2.jpeg",
+      "date": "2025-07-19"
+    },
+    {
+      "title": "Role Com Meu Amor",
+      "text": "Mais uma lembrança nossa guardada com cuidado nesse álbum particular.",
+      "image": "./fotos/19-07-2025-role-com-meu-amor.jpeg",
+      "date": "2025-07-19"
+    },
+    {
+      "title": "Barzinho",
+      "text": "Um rolê simples, uma noite leve e aquele jeito nosso de fazer qualquer lugar ficar especial.",
+      "image": "./fotos/21-07-2025-barzinho-2.jpeg",
+      "date": "2025-07-21"
+    },
+    {
+      "title": "Barzinho",
+      "text": "Um rolê simples, uma noite leve e aquele jeito nosso de fazer qualquer lugar ficar especial.",
+      "image": "./fotos/21-07-2025-barzinho-3.jpeg",
+      "date": "2025-07-21"
+    },
+    {
+      "title": "Barzinho",
+      "text": "Um rolê simples, uma noite leve e aquele jeito nosso de fazer qualquer lugar ficar especial.",
+      "image": "./fotos/21-07-2025-barzinho.jpeg",
+      "date": "2025-07-21"
+    },
+    {
+      "title": "Morango Do Amor",
+      "text": "Mais uma lembrança nossa guardada com cuidado nesse álbum particular.",
+      "image": "./fotos/25-07-2025-morango-do-amor.jpeg",
+      "date": "2025-07-25"
+    },
+    {
+      "title": "Show Delacruz",
+      "text": "Música, energia boa e você transformando a noite inteira na melhor parte da lembrança.",
+      "image": "./fotos/09-08-2025-show-delacruz-2.jpeg",
+      "date": "2025-08-09"
+    },
+    {
+      "title": "Show Delacruz",
+      "text": "Música, energia boa e você transformando a noite inteira na melhor parte da lembrança.",
+      "image": "./fotos/09-08-2025-show-delacruz-3.jpeg",
+      "date": "2025-08-09"
+    },
+    {
+      "title": "Show Delacruz",
+      "text": "Música, energia boa e você transformando a noite inteira na melhor parte da lembrança.",
+      "image": "./fotos/09-08-2025-show-delacruz-4.jpeg",
+      "date": "2025-08-09"
+    },
+    {
+      "title": "Show Delacruz",
+      "text": "Música, energia boa e você transformando a noite inteira na melhor parte da lembrança.",
+      "image": "./fotos/09-08-2025-show-delacruz-5.jpeg",
+      "date": "2025-08-09"
+    },
+    {
+      "title": "Show Delacruz",
+      "text": "Música, energia boa e você transformando a noite inteira na melhor parte da lembrança.",
+      "image": "./fotos/09-08-2025-show-delacruz.jpeg",
+      "date": "2025-08-09"
+    },
+    {
+      "title": "Primeira Viagem A dois",
+      "text": "Uma viagem, muitos detalhes e a certeza bonita de que o caminho fica melhor quando é com você.",
+      "image": "./fotos/18-10-2025-primeira-viagem-a-doi-9.jpeg",
+      "date": "2025-10-18"
+    },
+    {
+      "title": "Primeira Viagem A Dois",
+      "text": "Uma viagem, muitos detalhes e a certeza bonita de que o caminho fica melhor quando é com você.",
+      "image": "./fotos/18-10-2025-primeira-viagem-a-dois-2.jpeg",
+      "date": "2025-10-18"
+    },
+    {
+      "title": "Primeira Viagem A Dois",
+      "text": "Uma viagem, muitos detalhes e a certeza bonita de que o caminho fica melhor quando é com você.",
+      "image": "./fotos/18-10-2025-primeira-viagem-a-dois-3.jpeg",
+      "date": "2025-10-18"
+    },
+    {
+      "title": "Primeira Viagem A Dois",
+      "text": "Uma viagem, muitos detalhes e a certeza bonita de que o caminho fica melhor quando é com você.",
+      "image": "./fotos/18-10-2025-primeira-viagem-a-dois-4.jpeg",
+      "date": "2025-10-18"
+    },
+    {
+      "title": "Primeira Viagem A Dois",
+      "text": "Uma viagem, muitos detalhes e a certeza bonita de que o caminho fica melhor quando é com você.",
+      "image": "./fotos/18-10-2025-primeira-viagem-a-dois-5.jpeg",
+      "date": "2025-10-18"
+    },
+    {
+      "title": "Primeira Viagem A Dois",
+      "text": "Uma viagem, muitos detalhes e a certeza bonita de que o caminho fica melhor quando é com você.",
+      "image": "./fotos/18-10-2025-primeira-viagem-a-dois-6.jpeg",
+      "date": "2025-10-18"
+    },
+    {
+      "title": "Primeira Viagem A Dois",
+      "text": "Uma viagem, muitos detalhes e a certeza bonita de que o caminho fica melhor quando é com você.",
+      "image": "./fotos/18-10-2025-primeira-viagem-a-dois-7.jpeg",
+      "date": "2025-10-18"
+    },
+    {
+      "title": "Primeira Viagem A Dois",
+      "text": "Uma viagem, muitos detalhes e a certeza bonita de que o caminho fica melhor quando é com você.",
+      "image": "./fotos/18-10-2025-primeira-viagem-a-dois-8.jpeg",
+      "date": "2025-10-18"
+    },
+    {
+      "title": "Primeira Viagem A Dois",
+      "text": "Uma viagem, muitos detalhes e a certeza bonita de que o caminho fica melhor quando é com você.",
+      "image": "./fotos/18-10-2025-primeira-viagem-a-dois-9.jpeg",
+      "date": "2025-10-18"
+    },
+    {
+      "title": "Primeira Viagem A Dois",
+      "text": "Uma viagem, muitos detalhes e a certeza bonita de que o caminho fica melhor quando é com você.",
+      "image": "./fotos/18-10-2025-primeira-viagem-a-dois-10.jpeg",
+      "date": "2025-10-18"
+    },
+    {
+      "title": "Primeira Viagem A Dois",
+      "text": "Uma viagem, muitos detalhes e a certeza bonita de que o caminho fica melhor quando é com você.",
+      "image": "./fotos/18-10-2025-primeira-viagem-a-dois.jpeg",
+      "date": "2025-10-18"
+    },
+    {
+      "title": "Primeira Viagem A Dois 4",
+      "text": "Uma viagem, muitos detalhes e a certeza bonita de que o caminho fica melhor quando é com você.",
+      "image": "./fotos/18-10-2025-primeira-viagem-a-dois-4-11.jpeg",
+      "date": "2025-10-18"
+    },
+    {
+      "title": "Ano Novo",
+      "text": "A virada ficou mais especial porque tinha nós dois, promessa silenciosa e coração cheio.",
+      "image": "./fotos/01-12-2025-ano-novo-2.jpeg",
+      "date": "2025-12-01"
+    },
+    {
+      "title": "Ano Novo",
+      "text": "A virada ficou mais especial porque tinha nós dois, promessa silenciosa e coração cheio.",
+      "image": "./fotos/01-12-2025-ano-novo-3.jpeg",
+      "date": "2025-12-01"
+    },
+    {
+      "title": "Ano Novo",
+      "text": "A virada ficou mais especial porque tinha nós dois, promessa silenciosa e coração cheio.",
+      "image": "./fotos/01-12-2025-ano-novo.jpeg",
+      "date": "2025-12-01"
+    },
+    {
+      "title": "Ano Novo",
+      "text": "A virada ficou mais especial porque tinha nós dois, promessa silenciosa e coração cheio.",
+      "image": "./fotos/31-12-2025-ano-novo-2.jpeg",
+      "date": "2025-12-31"
+    },
+    {
+      "title": "Ano Novo",
+      "text": "A virada ficou mais especial porque tinha nós dois, promessa silenciosa e coração cheio.",
+      "image": "./fotos/31-12-2025-ano-novo-3.jpeg",
+      "date": "2025-12-31"
+    },
+    {
+      "title": "Ano Novo",
+      "text": "A virada ficou mais especial porque tinha nós dois, promessa silenciosa e coração cheio.",
+      "image": "./fotos/31-12-2025-ano-novo.jpeg",
+      "date": "2025-12-31"
+    },
+    {
+      "title": "Casamento Gi E Joyce",
+      "text": "Um dia de festa, família, amor no ar e a gente colecionando mais uma foto favorita.",
+      "image": "./fotos/06-06-2026-casamento-gi-e-joyce-2.jpeg",
+      "date": "2026-06-06"
+    },
+    {
+      "title": "Casamento Gi E Joyce",
+      "text": "Um dia de festa, família, amor no ar e a gente colecionando mais uma foto favorita.",
+      "image": "./fotos/06-06-2026-casamento-gi-e-joyce-3.jpeg",
+      "date": "2026-06-06"
+    },
+    {
+      "title": "Casamento Gi E Joyce",
+      "text": "Um dia de festa, família, amor no ar e a gente colecionando mais uma foto favorita.",
+      "image": "./fotos/06-06-2026-casamento-gi-e-joyce-4.jpeg",
+      "date": "2026-06-06"
+    },
+    {
+      "title": "Casamento Gi E Joyce",
+      "text": "Um dia de festa, família, amor no ar e a gente colecionando mais uma foto favorita.",
+      "image": "./fotos/06-06-2026-casamento-gi-e-joyce.jpeg",
+      "date": "2026-06-06"
+    }
+  ],
+  "posts": [
+    {
+      "id": "foto-005",
+      "date": "2026-06-06",
+      "title": "Casamento Gi E Joyce",
+      "caption": "Um dia de festa, família, amor no ar e a gente colecionando mais uma foto favorita.",
+      "image": "./fotos/06-06-2026-casamento-gi-e-joyce-2.jpeg",
+      "alt": "Foto de casamento gi e joyce do casal",
+      "tags": [
+        "2026",
+        "família"
+      ],
+      "location": "Casamento Gi e Joyce",
+      "source": "dated"
+    },
+    {
+      "id": "foto-006",
+      "date": "2026-06-06",
+      "title": "Casamento Gi E Joyce",
+      "caption": "Um dia de festa, família, amor no ar e a gente colecionando mais uma foto favorita.",
+      "image": "./fotos/06-06-2026-casamento-gi-e-joyce-3.jpeg",
+      "alt": "Foto de casamento gi e joyce do casal",
+      "tags": [
+        "2026",
+        "família"
+      ],
+      "location": "Casamento Gi e Joyce",
+      "source": "dated"
+    },
+    {
+      "id": "foto-007",
+      "date": "2026-06-06",
+      "title": "Casamento Gi E Joyce",
+      "caption": "Um dia de festa, família, amor no ar e a gente colecionando mais uma foto favorita.",
+      "image": "./fotos/06-06-2026-casamento-gi-e-joyce-4.jpeg",
+      "alt": "Foto de casamento gi e joyce do casal",
+      "tags": [
+        "2026",
+        "família"
+      ],
+      "location": "Casamento Gi e Joyce",
+      "source": "dated"
+    },
+    {
+      "id": "foto-008",
+      "date": "2026-06-06",
+      "title": "Casamento Gi E Joyce",
+      "caption": "Um dia de festa, família, amor no ar e a gente colecionando mais uma foto favorita.",
+      "image": "./fotos/06-06-2026-casamento-gi-e-joyce.jpeg",
+      "alt": "Foto de casamento gi e joyce do casal",
+      "tags": [
+        "2026",
+        "família"
+      ],
+      "location": "Casamento Gi e Joyce",
+      "source": "dated"
+    },
+    {
+      "id": "foto-055",
+      "date": "2025-12-31",
+      "title": "Ano Novo",
+      "caption": "A virada ficou mais especial porque tinha nós dois, promessa silenciosa e coração cheio.",
+      "image": "./fotos/31-12-2025-ano-novo-2.jpeg",
+      "alt": "Foto de ano novo do casal",
+      "tags": [
+        "2025",
+        "datas especiais"
+      ],
+      "location": "Nossa memória",
+      "source": "dated"
+    },
+    {
+      "id": "foto-056",
+      "date": "2025-12-31",
+      "title": "Ano Novo",
+      "caption": "A virada ficou mais especial porque tinha nós dois, promessa silenciosa e coração cheio.",
+      "image": "./fotos/31-12-2025-ano-novo-3.jpeg",
+      "alt": "Foto de ano novo do casal",
+      "tags": [
+        "2025",
+        "datas especiais"
+      ],
+      "location": "Nossa memória",
+      "source": "dated"
+    },
+    {
+      "id": "foto-057",
+      "date": "2025-12-31",
+      "title": "Ano Novo",
+      "caption": "A virada ficou mais especial porque tinha nós dois, promessa silenciosa e coração cheio.",
+      "image": "./fotos/31-12-2025-ano-novo.jpeg",
+      "alt": "Foto de ano novo do casal",
+      "tags": [
+        "2025",
+        "datas especiais"
+      ],
+      "location": "Nossa memória",
+      "source": "dated"
+    },
+    {
+      "id": "foto-001",
+      "date": "2025-12-01",
+      "title": "Ano Novo",
+      "caption": "A virada ficou mais especial porque tinha nós dois, promessa silenciosa e coração cheio.",
+      "image": "./fotos/01-12-2025-ano-novo-2.jpeg",
+      "alt": "Foto de ano novo do casal",
+      "tags": [
+        "2025",
+        "datas especiais"
+      ],
+      "location": "Nossa memória",
+      "source": "dated"
+    },
+    {
+      "id": "foto-002",
+      "date": "2025-12-01",
+      "title": "Ano Novo",
+      "caption": "A virada ficou mais especial porque tinha nós dois, promessa silenciosa e coração cheio.",
+      "image": "./fotos/01-12-2025-ano-novo-3.jpeg",
+      "alt": "Foto de ano novo do casal",
+      "tags": [
+        "2025",
+        "datas especiais"
+      ],
+      "location": "Nossa memória",
+      "source": "dated"
+    },
+    {
+      "id": "foto-003",
+      "date": "2025-12-01",
+      "title": "Ano Novo",
+      "caption": "A virada ficou mais especial porque tinha nós dois, promessa silenciosa e coração cheio.",
+      "image": "./fotos/01-12-2025-ano-novo.jpeg",
+      "alt": "Foto de ano novo do casal",
+      "tags": [
+        "2025",
+        "datas especiais"
+      ],
+      "location": "Nossa memória",
+      "source": "dated"
+    },
+    {
+      "id": "foto-025",
+      "date": "2025-10-18",
+      "title": "Primeira Viagem A dois",
+      "caption": "Uma viagem, muitos detalhes e a certeza bonita de que o caminho fica melhor quando é com você.",
+      "image": "./fotos/18-10-2025-primeira-viagem-a-doi-9.jpeg",
+      "alt": "Foto de primeira viagem a dois do casal",
+      "tags": [
+        "2025",
+        "viagem"
+      ],
+      "location": "Nossa memória",
+      "source": "dated"
+    },
+    {
+      "id": "foto-026",
+      "date": "2025-10-18",
+      "title": "Primeira Viagem A Dois",
+      "caption": "Uma viagem, muitos detalhes e a certeza bonita de que o caminho fica melhor quando é com você.",
+      "image": "./fotos/18-10-2025-primeira-viagem-a-dois-2.jpeg",
+      "alt": "Foto de primeira viagem a dois do casal",
+      "tags": [
+        "2025",
+        "viagem"
+      ],
+      "location": "Nossa memória",
+      "source": "dated"
+    },
+    {
+      "id": "foto-027",
+      "date": "2025-10-18",
+      "title": "Primeira Viagem A Dois",
+      "caption": "Uma viagem, muitos detalhes e a certeza bonita de que o caminho fica melhor quando é com você.",
+      "image": "./fotos/18-10-2025-primeira-viagem-a-dois-3.jpeg",
+      "alt": "Foto de primeira viagem a dois do casal",
+      "tags": [
+        "2025",
+        "viagem"
+      ],
+      "location": "Nossa memória",
+      "source": "dated"
+    },
+    {
+      "id": "foto-029",
+      "date": "2025-10-18",
+      "title": "Primeira Viagem A Dois",
+      "caption": "Uma viagem, muitos detalhes e a certeza bonita de que o caminho fica melhor quando é com você.",
+      "image": "./fotos/18-10-2025-primeira-viagem-a-dois-4.jpeg",
+      "alt": "Foto de primeira viagem a dois do casal",
+      "tags": [
+        "2025",
+        "viagem"
+      ],
+      "location": "Nossa memória",
+      "source": "dated"
+    },
+    {
+      "id": "foto-030",
+      "date": "2025-10-18",
+      "title": "Primeira Viagem A Dois",
+      "caption": "Uma viagem, muitos detalhes e a certeza bonita de que o caminho fica melhor quando é com você.",
+      "image": "./fotos/18-10-2025-primeira-viagem-a-dois-5.jpeg",
+      "alt": "Foto de primeira viagem a dois do casal",
+      "tags": [
+        "2025",
+        "viagem"
+      ],
+      "location": "Nossa memória",
+      "source": "dated"
+    },
+    {
+      "id": "foto-031",
+      "date": "2025-10-18",
+      "title": "Primeira Viagem A Dois",
+      "caption": "Uma viagem, muitos detalhes e a certeza bonita de que o caminho fica melhor quando é com você.",
+      "image": "./fotos/18-10-2025-primeira-viagem-a-dois-6.jpeg",
+      "alt": "Foto de primeira viagem a dois do casal",
+      "tags": [
+        "2025",
+        "viagem"
+      ],
+      "location": "Nossa memória",
+      "source": "dated"
+    },
+    {
+      "id": "foto-032",
+      "date": "2025-10-18",
+      "title": "Primeira Viagem A Dois",
+      "caption": "Uma viagem, muitos detalhes e a certeza bonita de que o caminho fica melhor quando é com você.",
+      "image": "./fotos/18-10-2025-primeira-viagem-a-dois-7.jpeg",
+      "alt": "Foto de primeira viagem a dois do casal",
+      "tags": [
+        "2025",
+        "viagem"
+      ],
+      "location": "Nossa memória",
+      "source": "dated"
+    },
+    {
+      "id": "foto-033",
+      "date": "2025-10-18",
+      "title": "Primeira Viagem A Dois",
+      "caption": "Uma viagem, muitos detalhes e a certeza bonita de que o caminho fica melhor quando é com você.",
+      "image": "./fotos/18-10-2025-primeira-viagem-a-dois-8.jpeg",
+      "alt": "Foto de primeira viagem a dois do casal",
+      "tags": [
+        "2025",
+        "viagem"
+      ],
+      "location": "Nossa memória",
+      "source": "dated"
+    },
+    {
+      "id": "foto-034",
+      "date": "2025-10-18",
+      "title": "Primeira Viagem A Dois",
+      "caption": "Uma viagem, muitos detalhes e a certeza bonita de que o caminho fica melhor quando é com você.",
+      "image": "./fotos/18-10-2025-primeira-viagem-a-dois-9.jpeg",
+      "alt": "Foto de primeira viagem a dois do casal",
+      "tags": [
+        "2025",
+        "viagem"
+      ],
+      "location": "Nossa memória",
+      "source": "dated"
+    },
+    {
+      "id": "foto-035",
+      "date": "2025-10-18",
+      "title": "Primeira Viagem A Dois",
+      "caption": "Uma viagem, muitos detalhes e a certeza bonita de que o caminho fica melhor quando é com você.",
+      "image": "./fotos/18-10-2025-primeira-viagem-a-dois-10.jpeg",
+      "alt": "Foto de primeira viagem a dois do casal",
+      "tags": [
+        "2025",
+        "viagem"
+      ],
+      "location": "Nossa memória",
+      "source": "dated"
+    },
+    {
+      "id": "foto-036",
+      "date": "2025-10-18",
+      "title": "Primeira Viagem A Dois",
+      "caption": "Uma viagem, muitos detalhes e a certeza bonita de que o caminho fica melhor quando é com você.",
+      "image": "./fotos/18-10-2025-primeira-viagem-a-dois.jpeg",
+      "alt": "Foto de primeira viagem a dois do casal",
+      "tags": [
+        "2025",
+        "viagem"
+      ],
+      "location": "Nossa memória",
+      "source": "dated"
+    },
+    {
+      "id": "foto-028",
+      "date": "2025-10-18",
+      "title": "Primeira Viagem A Dois 4",
+      "caption": "Uma viagem, muitos detalhes e a certeza bonita de que o caminho fica melhor quando é com você.",
+      "image": "./fotos/18-10-2025-primeira-viagem-a-dois-4-11.jpeg",
+      "alt": "Foto de primeira viagem a dois 4 do casal",
+      "tags": [
+        "2025",
+        "viagem"
+      ],
+      "location": "Nossa memória",
+      "source": "dated"
+    },
+    {
+      "id": "foto-009",
+      "date": "2025-08-09",
+      "title": "Show Delacruz",
+      "caption": "Música, energia boa e você transformando a noite inteira na melhor parte da lembrança.",
+      "image": "./fotos/09-08-2025-show-delacruz-2.jpeg",
+      "alt": "Foto de show delacruz do casal",
+      "tags": [
+        "2025",
+        "rolês"
+      ],
+      "location": "Show Delacruz",
+      "source": "dated"
+    },
+    {
+      "id": "foto-010",
+      "date": "2025-08-09",
+      "title": "Show Delacruz",
+      "caption": "Música, energia boa e você transformando a noite inteira na melhor parte da lembrança.",
+      "image": "./fotos/09-08-2025-show-delacruz-3.jpeg",
+      "alt": "Foto de show delacruz do casal",
+      "tags": [
+        "2025",
+        "rolês"
+      ],
+      "location": "Show Delacruz",
+      "source": "dated"
+    },
+    {
+      "id": "foto-011",
+      "date": "2025-08-09",
+      "title": "Show Delacruz",
+      "caption": "Música, energia boa e você transformando a noite inteira na melhor parte da lembrança.",
+      "image": "./fotos/09-08-2025-show-delacruz-4.jpeg",
+      "alt": "Foto de show delacruz do casal",
+      "tags": [
+        "2025",
+        "rolês"
+      ],
+      "location": "Show Delacruz",
+      "source": "dated"
+    },
+    {
+      "id": "foto-012",
+      "date": "2025-08-09",
+      "title": "Show Delacruz",
+      "caption": "Música, energia boa e você transformando a noite inteira na melhor parte da lembrança.",
+      "image": "./fotos/09-08-2025-show-delacruz-5.jpeg",
+      "alt": "Foto de show delacruz do casal",
+      "tags": [
+        "2025",
+        "rolês"
+      ],
+      "location": "Show Delacruz",
+      "source": "dated"
+    },
+    {
+      "id": "foto-013",
+      "date": "2025-08-09",
+      "title": "Show Delacruz",
+      "caption": "Música, energia boa e você transformando a noite inteira na melhor parte da lembrança.",
+      "image": "./fotos/09-08-2025-show-delacruz.jpeg",
+      "alt": "Foto de show delacruz do casal",
+      "tags": [
+        "2025",
+        "rolês"
+      ],
+      "location": "Show Delacruz",
+      "source": "dated"
+    },
+    {
+      "id": "foto-053",
+      "date": "2025-07-25",
+      "title": "Morango Do Amor",
+      "caption": "Mais uma lembrança nossa guardada com cuidado nesse álbum particular.",
+      "image": "./fotos/25-07-2025-morango-do-amor.jpeg",
+      "alt": "Foto de morango do amor do casal",
+      "tags": [
+        "2025"
+      ],
+      "location": "Nossa memória",
+      "source": "dated"
+    },
+    {
+      "id": "foto-039",
+      "date": "2025-07-21",
+      "title": "Barzinho",
+      "caption": "Um rolê simples, uma noite leve e aquele jeito nosso de fazer qualquer lugar ficar especial.",
+      "image": "./fotos/21-07-2025-barzinho-2.jpeg",
+      "alt": "Foto de barzinho do casal",
+      "tags": [
+        "2025",
+        "rolês"
+      ],
+      "location": "Barzinho",
+      "source": "dated"
+    },
+    {
+      "id": "foto-040",
+      "date": "2025-07-21",
+      "title": "Barzinho",
+      "caption": "Um rolê simples, uma noite leve e aquele jeito nosso de fazer qualquer lugar ficar especial.",
+      "image": "./fotos/21-07-2025-barzinho-3.jpeg",
+      "alt": "Foto de barzinho do casal",
+      "tags": [
+        "2025",
+        "rolês"
+      ],
+      "location": "Barzinho",
+      "source": "dated"
+    },
+    {
+      "id": "foto-041",
+      "date": "2025-07-21",
+      "title": "Barzinho",
+      "caption": "Um rolê simples, uma noite leve e aquele jeito nosso de fazer qualquer lugar ficar especial.",
+      "image": "./fotos/21-07-2025-barzinho.jpeg",
+      "alt": "Foto de barzinho do casal",
+      "tags": [
+        "2025",
+        "rolês"
+      ],
+      "location": "Barzinho",
+      "source": "dated"
+    },
+    {
+      "id": "foto-037",
+      "date": "2025-07-19",
+      "title": "Role Com Meu Amor",
+      "caption": "Mais uma lembrança nossa guardada com cuidado nesse álbum particular.",
+      "image": "./fotos/19-07-2025-role-com-meu-amor-2.jpeg",
+      "alt": "Foto de role com meu amor do casal",
+      "tags": [
+        "2025",
+        "rolês"
+      ],
+      "location": "Nossa memória",
+      "source": "dated"
+    },
+    {
+      "id": "foto-038",
+      "date": "2025-07-19",
+      "title": "Role Com Meu Amor",
+      "caption": "Mais uma lembrança nossa guardada com cuidado nesse álbum particular.",
+      "image": "./fotos/19-07-2025-role-com-meu-amor.jpeg",
+      "alt": "Foto de role com meu amor do casal",
+      "tags": [
+        "2025",
+        "rolês"
+      ],
+      "location": "Nossa memória",
+      "source": "dated"
+    },
+    {
+      "id": "foto-018",
+      "date": "2025-07-13",
+      "title": "Besteiras",
+      "caption": "Mais uma lembrança nossa guardada com cuidado nesse álbum particular.",
+      "image": "./fotos/13-07-205-besteiras-2.jpeg",
+      "alt": "Foto de besteiras do casal",
+      "tags": [
+        "2025"
+      ],
+      "location": "Nossa memória",
+      "source": "dated"
+    },
+    {
+      "id": "foto-019",
+      "date": "2025-07-13",
+      "title": "Besteiras",
+      "caption": "Mais uma lembrança nossa guardada com cuidado nesse álbum particular.",
+      "image": "./fotos/13-07-205-besteiras.jpeg",
+      "alt": "Foto de besteiras do casal",
+      "tags": [
+        "2025"
+      ],
+      "location": "Nossa memória",
+      "source": "dated"
+    },
+    {
+      "id": "foto-020",
+      "date": "2025-07-13",
+      "title": "Cinema",
+      "caption": "Filme, risadas e o tipo de companhia que faz até o caminho de volta virar memória.",
+      "image": "./fotos/13-07-205-cinema-2.jpeg",
+      "alt": "Foto de cinema do casal",
+      "tags": [
+        "2025",
+        "rolês"
+      ],
+      "location": "Cinema",
+      "source": "dated"
+    },
+    {
+      "id": "foto-021",
+      "date": "2025-07-13",
+      "title": "Cinema",
+      "caption": "Filme, risadas e o tipo de companhia que faz até o caminho de volta virar memória.",
+      "image": "./fotos/13-07-205-cinema.jpeg",
+      "alt": "Foto de cinema do casal",
+      "tags": [
+        "2025",
+        "rolês"
+      ],
+      "location": "Cinema",
+      "source": "dated"
+    },
+    {
+      "id": "foto-014",
+      "date": "2025-07-10",
+      "title": "Ligacao",
+      "caption": "Mais uma lembrança nossa guardada com cuidado nesse álbum particular.",
+      "image": "./fotos/10-07-2025-ligacao-2.jpeg",
+      "alt": "Foto de ligacao do casal",
+      "tags": [
+        "2025"
+      ],
+      "location": "Nossa memória",
+      "source": "dated"
+    },
+    {
+      "id": "foto-015",
+      "date": "2025-07-10",
+      "title": "Ligacao",
+      "caption": "Mais uma lembrança nossa guardada com cuidado nesse álbum particular.",
+      "image": "./fotos/10-07-2025-ligacao.jpeg",
+      "alt": "Foto de ligacao do casal",
+      "tags": [
+        "2025"
+      ],
+      "location": "Nossa memória",
+      "source": "dated"
+    },
+    {
+      "id": "foto-022",
+      "date": "2025-05-17",
+      "title": "Passeio Na Republica Centro De S2",
+      "caption": "Mais uma lembrança nossa guardada com cuidado nesse álbum particular.",
+      "image": "./fotos/17-05-2025-passeio-na-republica-centro-de-s2.jpeg",
+      "alt": "Foto de passeio na republica centro de s2 do casal",
+      "tags": [
+        "2025"
+      ],
+      "location": "Centro de SP",
+      "source": "dated"
+    },
+    {
+      "id": "foto-023",
+      "date": "2025-05-17",
+      "title": "Passeio Na Republica Centro De SP",
+      "caption": "Mais uma lembrança nossa guardada com cuidado nesse álbum particular.",
+      "image": "./fotos/17-05-2025-passeio-na-republica-centro-de-sp-3.jpeg",
+      "alt": "Foto de passeio na republica centro de sp do casal",
+      "tags": [
+        "2025"
+      ],
+      "location": "Centro de SP",
+      "source": "dated"
+    },
+    {
+      "id": "foto-024",
+      "date": "2025-05-17",
+      "title": "Passeio Na Republica Centro De SP",
+      "caption": "Mais uma lembrança nossa guardada com cuidado nesse álbum particular.",
+      "image": "./fotos/17-05-2025-passeio-na-republica-centro-de-sp.jpeg",
+      "alt": "Foto de passeio na republica centro de sp do casal",
+      "tags": [
+        "2025"
+      ],
+      "location": "Centro de SP",
+      "source": "dated"
+    },
+    {
+      "id": "foto-042",
+      "date": "2025-04-23",
+      "title": "Primeira Viagem Com Familia Da Ca Florianópolis",
+      "caption": "Uma viagem, muitos detalhes e a certeza bonita de que o caminho fica melhor quando é com você.",
+      "image": "./fotos/23-04-2025-primeira-viagem-com-familia-da-ca-florianopolis-2.jpeg",
+      "alt": "Foto de primeira viagem com familia da ca florianópolis do casal",
+      "tags": [
+        "2025",
+        "viagem",
+        "família"
+      ],
+      "location": "Florianópolis",
+      "source": "dated"
+    },
+    {
+      "id": "foto-043",
+      "date": "2025-04-23",
+      "title": "Primeira Viagem Com Familia Da Ca Florianópolis",
+      "caption": "Uma viagem, muitos detalhes e a certeza bonita de que o caminho fica melhor quando é com você.",
+      "image": "./fotos/23-04-2025-primeira-viagem-com-familia-da-ca-florianopolis-3.jpeg",
+      "alt": "Foto de primeira viagem com familia da ca florianópolis do casal",
+      "tags": [
+        "2025",
+        "viagem",
+        "família"
+      ],
+      "location": "Florianópolis",
+      "source": "dated"
+    },
+    {
+      "id": "foto-044",
+      "date": "2025-04-23",
+      "title": "Primeira Viagem Com Familia Da Ca Florianópolis",
+      "caption": "Uma viagem, muitos detalhes e a certeza bonita de que o caminho fica melhor quando é com você.",
+      "image": "./fotos/23-04-2025-primeira-viagem-com-familia-da-ca-florianopolis-4.jpeg",
+      "alt": "Foto de primeira viagem com familia da ca florianópolis do casal",
+      "tags": [
+        "2025",
+        "viagem",
+        "família"
+      ],
+      "location": "Florianópolis",
+      "source": "dated"
+    },
+    {
+      "id": "foto-045",
+      "date": "2025-04-23",
+      "title": "Primeira Viagem Com Familia Da Ca Florianópolis",
+      "caption": "Uma viagem, muitos detalhes e a certeza bonita de que o caminho fica melhor quando é com você.",
+      "image": "./fotos/23-04-2025-primeira-viagem-com-familia-da-ca-florianopolis-5.jpeg",
+      "alt": "Foto de primeira viagem com familia da ca florianópolis do casal",
+      "tags": [
+        "2025",
+        "viagem",
+        "família"
+      ],
+      "location": "Florianópolis",
+      "source": "dated"
+    },
+    {
+      "id": "foto-046",
+      "date": "2025-04-23",
+      "title": "Primeira Viagem Com Familia Da Ca Florianópolis",
+      "caption": "Uma viagem, muitos detalhes e a certeza bonita de que o caminho fica melhor quando é com você.",
+      "image": "./fotos/23-04-2025-primeira-viagem-com-familia-da-ca-florianopolis-6.jpeg",
+      "alt": "Foto de primeira viagem com familia da ca florianópolis do casal",
+      "tags": [
+        "2025",
+        "viagem",
+        "família"
+      ],
+      "location": "Florianópolis",
+      "source": "dated"
+    },
+    {
+      "id": "foto-047",
+      "date": "2025-04-23",
+      "title": "Primeira Viagem Com Familia Da Ca Florianópolis",
+      "caption": "Uma viagem, muitos detalhes e a certeza bonita de que o caminho fica melhor quando é com você.",
+      "image": "./fotos/23-04-2025-primeira-viagem-com-familia-da-ca-florianopolis-7.jpeg",
+      "alt": "Foto de primeira viagem com familia da ca florianópolis do casal",
+      "tags": [
+        "2025",
+        "viagem",
+        "família"
+      ],
+      "location": "Florianópolis",
+      "source": "dated"
+    },
+    {
+      "id": "foto-048",
+      "date": "2025-04-23",
+      "title": "Primeira Viagem Com Familia Da Ca Florianópolis",
+      "caption": "Uma viagem, muitos detalhes e a certeza bonita de que o caminho fica melhor quando é com você.",
+      "image": "./fotos/23-04-2025-primeira-viagem-com-familia-da-ca-florianopolis.jpeg",
+      "alt": "Foto de primeira viagem com familia da ca florianópolis do casal",
+      "tags": [
+        "2025",
+        "viagem",
+        "família"
+      ],
+      "location": "Florianópolis",
+      "source": "dated"
+    },
+    {
+      "id": "foto-054",
+      "date": "2024-12-30",
+      "title": "Primeiro Aniversario Gu Juntos",
+      "caption": "Celebrar a vida ficou ainda melhor desde que virou também uma forma de celebrar nós dois.",
+      "image": "./fotos/30-12-2024-primeiro-aniversario-gu-juntos.jpeg",
+      "alt": "Foto de primeiro aniversario gu juntos do casal",
+      "tags": [
+        "2024",
+        "datas especiais"
+      ],
+      "location": "Nossa memória",
+      "source": "dated"
+    },
+    {
+      "id": "foto-051",
+      "date": "2024-12-24",
+      "title": "Primeiro Natal Juntos",
+      "caption": "Nosso primeiro Natal juntos guardado como um capítulo quente, bonito e cheio de afeto.",
+      "image": "./fotos/24-12-2024-primeiro-natal-juntos.jpeg",
+      "alt": "Foto de primeiro natal juntos do casal",
+      "tags": [
+        "2024",
+        "datas especiais"
+      ],
+      "location": "Nossa memória",
+      "source": "dated"
+    },
+    {
+      "id": "foto-016",
+      "date": "2024-06-12",
+      "title": "Primeiro Dia Dos Namorados",
+      "caption": "Mais uma lembrança nossa guardada com cuidado nesse álbum particular.",
+      "image": "./fotos/12-06-2024-primeiro-dia-dos-namorados.jpeg",
+      "alt": "Foto de primeiro dia dos namorados do casal",
+      "tags": [
+        "2024",
+        "datas especiais"
+      ],
+      "location": "Nossa memória",
+      "source": "dated"
+    },
+    {
+      "id": "foto-004",
+      "date": "2024-03-02",
+      "title": "Terceiro Encontro",
+      "caption": "Mais uma vez escolhendo ficar perto, rindo fácil e criando lembranças sem perceber.",
+      "image": "./fotos/02-03-2024-terceiro-encontro.jpeg",
+      "alt": "Foto de terceiro encontro do casal",
+      "tags": [
+        "2024"
+      ],
+      "location": "Nossa memória",
+      "source": "dated"
+    },
+    {
+      "id": "foto-052",
+      "date": "2024-01-25",
+      "title": "Primeiro Aniversario Ca Juntos Primeiro Eu Te Amo",
+      "caption": "Celebrar a vida ficou ainda melhor desde que virou também uma forma de celebrar nós dois.",
+      "image": "./fotos/25-01-2024-primeiro-aniversario-ca-juntos-primeiro-eu-te-amo.jpeg",
+      "alt": "Foto de primeiro aniversario ca juntos primeiro eu te amo do casal",
+      "tags": [
+        "2024",
+        "datas especiais"
+      ],
+      "location": "Nossa memória",
+      "source": "dated"
+    },
+    {
+      "id": "foto-017",
+      "date": "2024-01-13",
+      "title": "Segundo Encontro",
+      "caption": "Mais uma vez escolhendo ficar perto, rindo fácil e criando lembranças sem perceber.",
+      "image": "./fotos/13-01-2024-segundo-encontro.jpeg",
+      "alt": "Foto de segundo encontro do casal",
+      "tags": [
+        "2024"
+      ],
+      "location": "Nossa memória",
+      "source": "dated"
+    },
+    {
+      "id": "foto-049",
+      "date": "2023-12-23",
+      "title": "Primeiro Encontro",
+      "caption": "A memória que virou ponto de partida para tudo que a gente ainda está construindo.",
+      "image": "./fotos/23-12-2023-primeiro-encontro-2.jpeg",
+      "alt": "Foto de primeiro encontro do casal",
+      "tags": [
+        "2023",
+        "datas especiais"
+      ],
+      "location": "Nossa memória",
+      "source": "dated"
+    },
+    {
+      "id": "foto-050",
+      "date": "2023-12-23",
+      "title": "Primeiro Encontro",
+      "caption": "A memória que virou ponto de partida para tudo que a gente ainda está construindo.",
+      "image": "./fotos/23-12-2023-primeiro-encontro.jpeg",
+      "alt": "Foto de primeiro encontro do casal",
+      "tags": [
+        "2023",
+        "datas especiais"
+      ],
+      "location": "Nossa memória",
+      "source": "dated"
+    },
+    {
+      "id": "foto-058",
+      "date": "2026-06-12",
+      "title": "Nossos momentos",
+      "caption": "Um daqueles registros espontâneos que talvez não tenham legenda perfeita, mas têm exatamente a nossa cara.",
+      "image": "./fotos/WhatsApp%20Image%202026-06-12%20at%2001.44.41%20(2).jpeg",
+      "alt": "Foto de nossos momentos do casal",
+      "tags": [
+        "2026",
+        "nossos momentos"
+      ],
+      "location": "Nosso dia a dia",
+      "source": "random"
+    },
+    {
+      "id": "foto-059",
+      "date": "2026-06-12",
+      "title": "Nossos momentos",
+      "caption": "Um daqueles registros espontâneos que talvez não tenham legenda perfeita, mas têm exatamente a nossa cara.",
+      "image": "./fotos/WhatsApp%20Image%202026-06-12%20at%2001.44.41%20(3).jpeg",
+      "alt": "Foto de nossos momentos do casal",
+      "tags": [
+        "2026",
+        "nossos momentos"
+      ],
+      "location": "Nosso dia a dia",
+      "source": "random"
+    },
+    {
+      "id": "foto-060",
+      "date": "2026-06-12",
+      "title": "Nossos momentos",
+      "caption": "Um daqueles registros espontâneos que talvez não tenham legenda perfeita, mas têm exatamente a nossa cara.",
+      "image": "./fotos/WhatsApp%20Image%202026-06-12%20at%2001.44.41%20(4).jpeg",
+      "alt": "Foto de nossos momentos do casal",
+      "tags": [
+        "2026",
+        "nossos momentos"
+      ],
+      "location": "Nosso dia a dia",
+      "source": "random"
+    },
+    {
+      "id": "foto-061",
+      "date": "2026-06-12",
+      "title": "Nossos momentos",
+      "caption": "Um daqueles registros espontâneos que talvez não tenham legenda perfeita, mas têm exatamente a nossa cara.",
+      "image": "./fotos/WhatsApp%20Image%202026-06-12%20at%2001.44.41.jpeg",
+      "alt": "Foto de nossos momentos do casal",
+      "tags": [
+        "2026",
+        "nossos momentos"
+      ],
+      "location": "Nosso dia a dia",
+      "source": "random"
+    },
+    {
+      "id": "foto-062",
+      "date": "2026-06-12",
+      "title": "Nossos momentos",
+      "caption": "Um daqueles registros espontâneos que talvez não tenham legenda perfeita, mas têm exatamente a nossa cara.",
+      "image": "./fotos/WhatsApp%20Image%202026-06-12%20at%2001.44.42%20(1).jpeg",
+      "alt": "Foto de nossos momentos do casal",
+      "tags": [
+        "2026",
+        "nossos momentos"
+      ],
+      "location": "Nosso dia a dia",
+      "source": "random"
+    },
+    {
+      "id": "foto-063",
+      "date": "2026-06-12",
+      "title": "Nossos momentos",
+      "caption": "Um daqueles registros espontâneos que talvez não tenham legenda perfeita, mas têm exatamente a nossa cara.",
+      "image": "./fotos/WhatsApp%20Image%202026-06-12%20at%2001.44.42%20(4).jpeg",
+      "alt": "Foto de nossos momentos do casal",
+      "tags": [
+        "2026",
+        "nossos momentos"
+      ],
+      "location": "Nosso dia a dia",
+      "source": "random"
+    },
+    {
+      "id": "foto-064",
+      "date": "2026-06-12",
+      "title": "Nossos momentos",
+      "caption": "Um daqueles registros espontâneos que talvez não tenham legenda perfeita, mas têm exatamente a nossa cara.",
+      "image": "./fotos/WhatsApp%20Image%202026-06-12%20at%2001.44.42.jpeg",
+      "alt": "Foto de nossos momentos do casal",
+      "tags": [
+        "2026",
+        "nossos momentos"
+      ],
+      "location": "Nosso dia a dia",
+      "source": "random"
+    },
+    {
+      "id": "foto-065",
+      "date": "2026-06-12",
+      "title": "Nossos momentos",
+      "caption": "Um daqueles registros espontâneos que talvez não tenham legenda perfeita, mas têm exatamente a nossa cara.",
+      "image": "./fotos/WhatsApp%20Image%202026-06-12%20at%2001.44.43%20(1).jpeg",
+      "alt": "Foto de nossos momentos do casal",
+      "tags": [
+        "2026",
+        "nossos momentos"
+      ],
+      "location": "Nosso dia a dia",
+      "source": "random"
+    },
+    {
+      "id": "foto-066",
+      "date": "2026-06-12",
+      "title": "Nossos momentos",
+      "caption": "Um daqueles registros espontâneos que talvez não tenham legenda perfeita, mas têm exatamente a nossa cara.",
+      "image": "./fotos/WhatsApp%20Image%202026-06-12%20at%2001.44.43.jpeg",
+      "alt": "Foto de nossos momentos do casal",
+      "tags": [
+        "2026",
+        "nossos momentos"
+      ],
+      "location": "Nosso dia a dia",
+      "source": "random"
+    },
+    {
+      "id": "foto-067",
+      "date": "2026-06-12",
+      "title": "Nossos momentos",
+      "caption": "Um daqueles registros espontâneos que talvez não tenham legenda perfeita, mas têm exatamente a nossa cara.",
+      "image": "./fotos/WhatsApp%20Image%202026-06-12%20at%2001.44.46%20(4).jpeg",
+      "alt": "Foto de nossos momentos do casal",
+      "tags": [
+        "2026",
+        "nossos momentos"
+      ],
+      "location": "Nosso dia a dia",
+      "source": "random"
+    },
+    {
+      "id": "foto-068",
+      "date": "2026-06-12",
+      "title": "Nossos momentos",
+      "caption": "Um daqueles registros espontâneos que talvez não tenham legenda perfeita, mas têm exatamente a nossa cara.",
+      "image": "./fotos/WhatsApp%20Image%202026-06-12%20at%2001.44.46%20(5).jpeg",
+      "alt": "Foto de nossos momentos do casal",
+      "tags": [
+        "2026",
+        "nossos momentos"
+      ],
+      "location": "Nosso dia a dia",
+      "source": "random"
+    },
+    {
+      "id": "foto-069",
+      "date": "2026-06-12",
+      "title": "Nossos momentos",
+      "caption": "Um daqueles registros espontâneos que talvez não tenham legenda perfeita, mas têm exatamente a nossa cara.",
+      "image": "./fotos/WhatsApp%20Image%202026-06-12%20at%2001.44.47%20(1).jpeg",
+      "alt": "Foto de nossos momentos do casal",
+      "tags": [
+        "2026",
+        "nossos momentos"
+      ],
+      "location": "Nosso dia a dia",
+      "source": "random"
+    },
+    {
+      "id": "foto-070",
+      "date": "2026-06-12",
+      "title": "Nossos momentos",
+      "caption": "Um daqueles registros espontâneos que talvez não tenham legenda perfeita, mas têm exatamente a nossa cara.",
+      "image": "./fotos/WhatsApp%20Image%202026-06-12%20at%2001.44.47%20(2).jpeg",
+      "alt": "Foto de nossos momentos do casal",
+      "tags": [
+        "2026",
+        "nossos momentos"
+      ],
+      "location": "Nosso dia a dia",
+      "source": "random"
+    },
+    {
+      "id": "foto-071",
+      "date": "2026-06-12",
+      "title": "Nossos momentos",
+      "caption": "Um daqueles registros espontâneos que talvez não tenham legenda perfeita, mas têm exatamente a nossa cara.",
+      "image": "./fotos/WhatsApp%20Image%202026-06-12%20at%2001.44.47.jpeg",
+      "alt": "Foto de nossos momentos do casal",
+      "tags": [
+        "2026",
+        "nossos momentos"
+      ],
+      "location": "Nosso dia a dia",
+      "source": "random"
+    },
+    {
+      "id": "foto-072",
+      "date": "2026-06-12",
+      "title": "Nossos momentos",
+      "caption": "Um daqueles registros espontâneos que talvez não tenham legenda perfeita, mas têm exatamente a nossa cara.",
+      "image": "./fotos/WhatsApp%20Image%202026-06-12%20at%2001.45.09.jpeg",
+      "alt": "Foto de nossos momentos do casal",
+      "tags": [
+        "2026",
+        "nossos momentos"
+      ],
+      "location": "Nosso dia a dia",
+      "source": "random"
+    },
+    {
+      "id": "foto-073",
+      "date": "2026-06-12",
+      "title": "Nossos momentos",
+      "caption": "Um daqueles registros espontâneos que talvez não tenham legenda perfeita, mas têm exatamente a nossa cara.",
+      "image": "./fotos/WhatsApp%20Image%202026-06-12%20at%2001.45.10%20(1).jpeg",
+      "alt": "Foto de nossos momentos do casal",
+      "tags": [
+        "2026",
+        "nossos momentos"
+      ],
+      "location": "Nosso dia a dia",
+      "source": "random"
+    },
+    {
+      "id": "foto-074",
+      "date": "2026-06-12",
+      "title": "Nossos momentos",
+      "caption": "Um daqueles registros espontâneos que talvez não tenham legenda perfeita, mas têm exatamente a nossa cara.",
+      "image": "./fotos/WhatsApp%20Image%202026-06-12%20at%2001.45.10%20(2).jpeg",
+      "alt": "Foto de nossos momentos do casal",
+      "tags": [
+        "2026",
+        "nossos momentos"
+      ],
+      "location": "Nosso dia a dia",
+      "source": "random"
+    },
+    {
+      "id": "foto-075",
+      "date": "2026-06-12",
+      "title": "Nossos momentos",
+      "caption": "Um daqueles registros espontâneos que talvez não tenham legenda perfeita, mas têm exatamente a nossa cara.",
+      "image": "./fotos/WhatsApp%20Image%202026-06-12%20at%2001.45.10%20(3).jpeg",
+      "alt": "Foto de nossos momentos do casal",
+      "tags": [
+        "2026",
+        "nossos momentos"
+      ],
+      "location": "Nosso dia a dia",
+      "source": "random"
+    },
+    {
+      "id": "foto-076",
+      "date": "2026-06-12",
+      "title": "Nossos momentos",
+      "caption": "Um daqueles registros espontâneos que talvez não tenham legenda perfeita, mas têm exatamente a nossa cara.",
+      "image": "./fotos/WhatsApp%20Image%202026-06-12%20at%2001.45.10%20(4).jpeg",
+      "alt": "Foto de nossos momentos do casal",
+      "tags": [
+        "2026",
+        "nossos momentos"
+      ],
+      "location": "Nosso dia a dia",
+      "source": "random"
+    },
+    {
+      "id": "foto-077",
+      "date": "2026-06-12",
+      "title": "Nossos momentos",
+      "caption": "Um daqueles registros espontâneos que talvez não tenham legenda perfeita, mas têm exatamente a nossa cara.",
+      "image": "./fotos/WhatsApp%20Image%202026-06-12%20at%2001.45.10%20(5).jpeg",
+      "alt": "Foto de nossos momentos do casal",
+      "tags": [
+        "2026",
+        "nossos momentos"
+      ],
+      "location": "Nosso dia a dia",
+      "source": "random"
+    },
+    {
+      "id": "foto-078",
+      "date": "2026-06-12",
+      "title": "Nossos momentos",
+      "caption": "Um daqueles registros espontâneos que talvez não tenham legenda perfeita, mas têm exatamente a nossa cara.",
+      "image": "./fotos/WhatsApp%20Image%202026-06-12%20at%2001.45.10%20(8).jpeg",
+      "alt": "Foto de nossos momentos do casal",
+      "tags": [
+        "2026",
+        "nossos momentos"
+      ],
+      "location": "Nosso dia a dia",
+      "source": "random"
+    },
+    {
+      "id": "foto-079",
+      "date": "2026-06-12",
+      "title": "Nossos momentos",
+      "caption": "Um daqueles registros espontâneos que talvez não tenham legenda perfeita, mas têm exatamente a nossa cara.",
+      "image": "./fotos/WhatsApp%20Image%202026-06-12%20at%2001.45.10%20(9).jpeg",
+      "alt": "Foto de nossos momentos do casal",
+      "tags": [
+        "2026",
+        "nossos momentos"
+      ],
+      "location": "Nosso dia a dia",
+      "source": "random"
+    },
+    {
+      "id": "foto-080",
+      "date": "2026-06-12",
+      "title": "Nossos momentos",
+      "caption": "Um daqueles registros espontâneos que talvez não tenham legenda perfeita, mas têm exatamente a nossa cara.",
+      "image": "./fotos/WhatsApp%20Image%202026-06-12%20at%2001.45.10%20(10).jpeg",
+      "alt": "Foto de nossos momentos do casal",
+      "tags": [
+        "2026",
+        "nossos momentos"
+      ],
+      "location": "Nosso dia a dia",
+      "source": "random"
+    },
+    {
+      "id": "foto-081",
+      "date": "2026-06-12",
+      "title": "Nossos momentos",
+      "caption": "Um daqueles registros espontâneos que talvez não tenham legenda perfeita, mas têm exatamente a nossa cara.",
+      "image": "./fotos/WhatsApp%20Image%202026-06-12%20at%2001.45.10%20(14).jpeg",
+      "alt": "Foto de nossos momentos do casal",
+      "tags": [
+        "2026",
+        "nossos momentos"
+      ],
+      "location": "Nosso dia a dia",
+      "source": "random"
+    },
+    {
+      "id": "foto-082",
+      "date": "2026-06-12",
+      "title": "Nossos momentos",
+      "caption": "Um daqueles registros espontâneos que talvez não tenham legenda perfeita, mas têm exatamente a nossa cara.",
+      "image": "./fotos/WhatsApp%20Image%202026-06-12%20at%2001.45.10.jpeg",
+      "alt": "Foto de nossos momentos do casal",
+      "tags": [
+        "2026",
+        "nossos momentos"
+      ],
+      "location": "Nosso dia a dia",
+      "source": "random"
+    },
+    {
+      "id": "foto-083",
+      "date": "2026-06-12",
+      "title": "Nossos momentos",
+      "caption": "Um daqueles registros espontâneos que talvez não tenham legenda perfeita, mas têm exatamente a nossa cara.",
+      "image": "./fotos/WhatsApp%20Image%202026-06-12%20at%2001.45.11%20(7).jpeg",
+      "alt": "Foto de nossos momentos do casal",
+      "tags": [
+        "2026",
+        "nossos momentos"
+      ],
+      "location": "Nosso dia a dia",
+      "source": "random"
+    },
+    {
+      "id": "foto-084",
+      "date": "2026-06-12",
+      "title": "Nossos momentos",
+      "caption": "Um daqueles registros espontâneos que talvez não tenham legenda perfeita, mas têm exatamente a nossa cara.",
+      "image": "./fotos/WhatsApp%20Image%202026-06-12%20at%2001.45.11%20(8).jpeg",
+      "alt": "Foto de nossos momentos do casal",
+      "tags": [
+        "2026",
+        "nossos momentos"
+      ],
+      "location": "Nosso dia a dia",
+      "source": "random"
+    },
+    {
+      "id": "foto-085",
+      "date": "2026-06-12",
+      "title": "Nossos momentos",
+      "caption": "Um daqueles registros espontâneos que talvez não tenham legenda perfeita, mas têm exatamente a nossa cara.",
+      "image": "./fotos/WhatsApp%20Image%202026-06-12%20at%2001.45.11%20(9).jpeg",
+      "alt": "Foto de nossos momentos do casal",
+      "tags": [
+        "2026",
+        "nossos momentos"
+      ],
+      "location": "Nosso dia a dia",
+      "source": "random"
+    },
+    {
+      "id": "foto-086",
+      "date": "2026-06-12",
+      "title": "Nossos momentos",
+      "caption": "Um daqueles registros espontâneos que talvez não tenham legenda perfeita, mas têm exatamente a nossa cara.",
+      "image": "./fotos/WhatsApp%20Image%202026-06-12%20at%2001.45.11%20(10).jpeg",
+      "alt": "Foto de nossos momentos do casal",
+      "tags": [
+        "2026",
+        "nossos momentos"
+      ],
+      "location": "Nosso dia a dia",
+      "source": "random"
+    },
+    {
+      "id": "foto-087",
+      "date": "2026-06-12",
+      "title": "Nossos momentos",
+      "caption": "Um daqueles registros espontâneos que talvez não tenham legenda perfeita, mas têm exatamente a nossa cara.",
+      "image": "./fotos/WhatsApp%20Image%202026-06-12%20at%2001.45.11%20(11).jpeg",
+      "alt": "Foto de nossos momentos do casal",
+      "tags": [
+        "2026",
+        "nossos momentos"
+      ],
+      "location": "Nosso dia a dia",
+      "source": "random"
+    },
+    {
+      "id": "foto-088",
+      "date": "2026-06-12",
+      "title": "Nossos momentos",
+      "caption": "Um daqueles registros espontâneos que talvez não tenham legenda perfeita, mas têm exatamente a nossa cara.",
+      "image": "./fotos/WhatsApp%20Image%202026-06-12%20at%2001.45.11%20(12).jpeg",
+      "alt": "Foto de nossos momentos do casal",
+      "tags": [
+        "2026",
+        "nossos momentos"
+      ],
+      "location": "Nosso dia a dia",
+      "source": "random"
+    },
+    {
+      "id": "foto-089",
+      "date": "2026-06-12",
+      "title": "Nossos momentos",
+      "caption": "Um daqueles registros espontâneos que talvez não tenham legenda perfeita, mas têm exatamente a nossa cara.",
+      "image": "./fotos/WhatsApp%20Image%202026-06-12%20at%2001.45.11%20(13).jpeg",
+      "alt": "Foto de nossos momentos do casal",
+      "tags": [
+        "2026",
+        "nossos momentos"
+      ],
+      "location": "Nosso dia a dia",
+      "source": "random"
+    },
+    {
+      "id": "foto-090",
+      "date": "2026-06-12",
+      "title": "Nossos momentos",
+      "caption": "Um daqueles registros espontâneos que talvez não tenham legenda perfeita, mas têm exatamente a nossa cara.",
+      "image": "./fotos/WhatsApp%20Image%202026-06-12%20at%2001.45.11%20(14).jpeg",
+      "alt": "Foto de nossos momentos do casal",
+      "tags": [
+        "2026",
+        "nossos momentos"
+      ],
+      "location": "Nosso dia a dia",
+      "source": "random"
+    },
+    {
+      "id": "foto-091",
+      "date": "2026-06-12",
+      "title": "Nossos momentos",
+      "caption": "Um daqueles registros espontâneos que talvez não tenham legenda perfeita, mas têm exatamente a nossa cara.",
+      "image": "./fotos/WhatsApp%20Image%202026-06-12%20at%2001.45.11%20(15).jpeg",
+      "alt": "Foto de nossos momentos do casal",
+      "tags": [
+        "2026",
+        "nossos momentos"
+      ],
+      "location": "Nosso dia a dia",
+      "source": "random"
+    },
+    {
+      "id": "foto-092",
+      "date": "2026-06-12",
+      "title": "Nossos momentos",
+      "caption": "Um daqueles registros espontâneos que talvez não tenham legenda perfeita, mas têm exatamente a nossa cara.",
+      "image": "./fotos/WhatsApp%20Image%202026-06-12%20at%2001.45.11%20(16).jpeg",
+      "alt": "Foto de nossos momentos do casal",
+      "tags": [
+        "2026",
+        "nossos momentos"
+      ],
+      "location": "Nosso dia a dia",
+      "source": "random"
+    },
+    {
+      "id": "foto-093",
+      "date": "2026-06-12",
+      "title": "Nossos momentos",
+      "caption": "Um daqueles registros espontâneos que talvez não tenham legenda perfeita, mas têm exatamente a nossa cara.",
+      "image": "./fotos/WhatsApp%20Image%202026-06-12%20at%2001.45.11%20(17).jpeg",
+      "alt": "Foto de nossos momentos do casal",
+      "tags": [
+        "2026",
+        "nossos momentos"
+      ],
+      "location": "Nosso dia a dia",
+      "source": "random"
+    },
+    {
+      "id": "foto-094",
+      "date": "2026-06-12",
+      "title": "Nossos momentos",
+      "caption": "Um daqueles registros espontâneos que talvez não tenham legenda perfeita, mas têm exatamente a nossa cara.",
+      "image": "./fotos/WhatsApp%20Image%202026-06-12%20at%2001.45.11.jpeg",
+      "alt": "Foto de nossos momentos do casal",
+      "tags": [
+        "2026",
+        "nossos momentos"
+      ],
+      "location": "Nosso dia a dia",
+      "source": "random"
+    },
+    {
+      "id": "foto-095",
+      "date": "2026-06-12",
+      "title": "Nossos momentos",
+      "caption": "Um daqueles registros espontâneos que talvez não tenham legenda perfeita, mas têm exatamente a nossa cara.",
+      "image": "./fotos/WhatsApp%20Image%202026-06-12%20at%2001.45.12%20(1).jpeg",
+      "alt": "Foto de nossos momentos do casal",
+      "tags": [
+        "2026",
+        "nossos momentos"
+      ],
+      "location": "Nosso dia a dia",
+      "source": "random"
+    },
+    {
+      "id": "foto-096",
+      "date": "2026-06-12",
+      "title": "Nossos momentos",
+      "caption": "Um daqueles registros espontâneos que talvez não tenham legenda perfeita, mas têm exatamente a nossa cara.",
+      "image": "./fotos/WhatsApp%20Image%202026-06-12%20at%2001.45.12%20(2).jpeg",
+      "alt": "Foto de nossos momentos do casal",
+      "tags": [
+        "2026",
+        "nossos momentos"
+      ],
+      "location": "Nosso dia a dia",
+      "source": "random"
+    },
+    {
+      "id": "foto-097",
+      "date": "2026-06-12",
+      "title": "Nossos momentos",
+      "caption": "Um daqueles registros espontâneos que talvez não tenham legenda perfeita, mas têm exatamente a nossa cara.",
+      "image": "./fotos/WhatsApp%20Image%202026-06-12%20at%2001.45.12%20(3).jpeg",
+      "alt": "Foto de nossos momentos do casal",
+      "tags": [
+        "2026",
+        "nossos momentos"
+      ],
+      "location": "Nosso dia a dia",
+      "source": "random"
+    },
+    {
+      "id": "foto-098",
+      "date": "2026-06-12",
+      "title": "Nossos momentos",
+      "caption": "Um daqueles registros espontâneos que talvez não tenham legenda perfeita, mas têm exatamente a nossa cara.",
+      "image": "./fotos/WhatsApp%20Image%202026-06-12%20at%2001.45.12%20(4).jpeg",
+      "alt": "Foto de nossos momentos do casal",
+      "tags": [
+        "2026",
+        "nossos momentos"
+      ],
+      "location": "Nosso dia a dia",
+      "source": "random"
+    },
+    {
+      "id": "foto-099",
+      "date": "2026-06-12",
+      "title": "Nossos momentos",
+      "caption": "Um daqueles registros espontâneos que talvez não tenham legenda perfeita, mas têm exatamente a nossa cara.",
+      "image": "./fotos/WhatsApp%20Image%202026-06-12%20at%2001.45.12%20(5).jpeg",
+      "alt": "Foto de nossos momentos do casal",
+      "tags": [
+        "2026",
+        "nossos momentos"
+      ],
+      "location": "Nosso dia a dia",
+      "source": "random"
+    },
+    {
+      "id": "foto-100",
+      "date": "2026-06-12",
+      "title": "Nossos momentos",
+      "caption": "Um daqueles registros espontâneos que talvez não tenham legenda perfeita, mas têm exatamente a nossa cara.",
+      "image": "./fotos/WhatsApp%20Image%202026-06-12%20at%2001.45.12%20(6).jpeg",
+      "alt": "Foto de nossos momentos do casal",
+      "tags": [
+        "2026",
+        "nossos momentos"
+      ],
+      "location": "Nosso dia a dia",
+      "source": "random"
+    },
+    {
+      "id": "foto-101",
+      "date": "2026-06-12",
+      "title": "Nossos momentos",
+      "caption": "Um daqueles registros espontâneos que talvez não tenham legenda perfeita, mas têm exatamente a nossa cara.",
+      "image": "./fotos/WhatsApp%20Image%202026-06-12%20at%2001.45.12%20(7).jpeg",
+      "alt": "Foto de nossos momentos do casal",
+      "tags": [
+        "2026",
+        "nossos momentos"
+      ],
+      "location": "Nosso dia a dia",
+      "source": "random"
+    },
+    {
+      "id": "foto-102",
+      "date": "2026-06-12",
+      "title": "Nossos momentos",
+      "caption": "Um daqueles registros espontâneos que talvez não tenham legenda perfeita, mas têm exatamente a nossa cara.",
+      "image": "./fotos/WhatsApp%20Image%202026-06-12%20at%2001.45.12%20(8).jpeg",
+      "alt": "Foto de nossos momentos do casal",
+      "tags": [
+        "2026",
+        "nossos momentos"
+      ],
+      "location": "Nosso dia a dia",
+      "source": "random"
+    },
+    {
+      "id": "foto-103",
+      "date": "2026-06-12",
+      "title": "Nossos momentos",
+      "caption": "Um daqueles registros espontâneos que talvez não tenham legenda perfeita, mas têm exatamente a nossa cara.",
+      "image": "./fotos/WhatsApp%20Image%202026-06-12%20at%2001.45.12%20(9).jpeg",
+      "alt": "Foto de nossos momentos do casal",
+      "tags": [
+        "2026",
+        "nossos momentos"
+      ],
+      "location": "Nosso dia a dia",
+      "source": "random"
+    },
+    {
+      "id": "foto-104",
+      "date": "2026-06-12",
+      "title": "Nossos momentos",
+      "caption": "Um daqueles registros espontâneos que talvez não tenham legenda perfeita, mas têm exatamente a nossa cara.",
+      "image": "./fotos/WhatsApp%20Image%202026-06-12%20at%2001.45.12%20(10).jpeg",
+      "alt": "Foto de nossos momentos do casal",
+      "tags": [
+        "2026",
+        "nossos momentos"
+      ],
+      "location": "Nosso dia a dia",
+      "source": "random"
+    },
+    {
+      "id": "foto-105",
+      "date": "2026-06-12",
+      "title": "Nossos momentos",
+      "caption": "Um daqueles registros espontâneos que talvez não tenham legenda perfeita, mas têm exatamente a nossa cara.",
+      "image": "./fotos/WhatsApp%20Image%202026-06-12%20at%2001.45.12%20(11).jpeg",
+      "alt": "Foto de nossos momentos do casal",
+      "tags": [
+        "2026",
+        "nossos momentos"
+      ],
+      "location": "Nosso dia a dia",
+      "source": "random"
+    },
+    {
+      "id": "foto-106",
+      "date": "2026-06-12",
+      "title": "Nossos momentos",
+      "caption": "Um daqueles registros espontâneos que talvez não tenham legenda perfeita, mas têm exatamente a nossa cara.",
+      "image": "./fotos/WhatsApp%20Image%202026-06-12%20at%2001.45.12%20(12).jpeg",
+      "alt": "Foto de nossos momentos do casal",
+      "tags": [
+        "2026",
+        "nossos momentos"
+      ],
+      "location": "Nosso dia a dia",
+      "source": "random"
+    },
+    {
+      "id": "foto-107",
+      "date": "2026-06-12",
+      "title": "Nossos momentos",
+      "caption": "Um daqueles registros espontâneos que talvez não tenham legenda perfeita, mas têm exatamente a nossa cara.",
+      "image": "./fotos/WhatsApp%20Image%202026-06-12%20at%2001.45.12%20(13).jpeg",
+      "alt": "Foto de nossos momentos do casal",
+      "tags": [
+        "2026",
+        "nossos momentos"
+      ],
+      "location": "Nosso dia a dia",
+      "source": "random"
+    },
+    {
+      "id": "foto-108",
+      "date": "2026-06-12",
+      "title": "Nossos momentos",
+      "caption": "Um daqueles registros espontâneos que talvez não tenham legenda perfeita, mas têm exatamente a nossa cara.",
+      "image": "./fotos/WhatsApp%20Image%202026-06-12%20at%2001.45.12%20(14).jpeg",
+      "alt": "Foto de nossos momentos do casal",
+      "tags": [
+        "2026",
+        "nossos momentos"
+      ],
+      "location": "Nosso dia a dia",
+      "source": "random"
+    },
+    {
+      "id": "foto-109",
+      "date": "2026-06-12",
+      "title": "Nossos momentos",
+      "caption": "Um daqueles registros espontâneos que talvez não tenham legenda perfeita, mas têm exatamente a nossa cara.",
+      "image": "./fotos/WhatsApp%20Image%202026-06-12%20at%2001.45.12%20(15).jpeg",
+      "alt": "Foto de nossos momentos do casal",
+      "tags": [
+        "2026",
+        "nossos momentos"
+      ],
+      "location": "Nosso dia a dia",
+      "source": "random"
+    },
+    {
+      "id": "foto-110",
+      "date": "2026-06-12",
+      "title": "Nossos momentos",
+      "caption": "Um daqueles registros espontâneos que talvez não tenham legenda perfeita, mas têm exatamente a nossa cara.",
+      "image": "./fotos/WhatsApp%20Image%202026-06-12%20at%2001.45.12%20(16).jpeg",
+      "alt": "Foto de nossos momentos do casal",
+      "tags": [
+        "2026",
+        "nossos momentos"
+      ],
+      "location": "Nosso dia a dia",
+      "source": "random"
+    },
+    {
+      "id": "foto-111",
+      "date": "2026-06-12",
+      "title": "Nossos momentos",
+      "caption": "Um daqueles registros espontâneos que talvez não tenham legenda perfeita, mas têm exatamente a nossa cara.",
+      "image": "./fotos/WhatsApp%20Image%202026-06-12%20at%2001.45.12.jpeg",
+      "alt": "Foto de nossos momentos do casal",
+      "tags": [
+        "2026",
+        "nossos momentos"
+      ],
+      "location": "Nosso dia a dia",
+      "source": "random"
+    },
+    {
+      "id": "foto-112",
+      "date": "2026-06-12",
+      "title": "Nossos momentos",
+      "caption": "Um daqueles registros espontâneos que talvez não tenham legenda perfeita, mas têm exatamente a nossa cara.",
+      "image": "./fotos/WhatsApp%20Image%202026-06-12%20at%2001.45.13%20(1).jpeg",
+      "alt": "Foto de nossos momentos do casal",
+      "tags": [
+        "2026",
+        "nossos momentos"
+      ],
+      "location": "Nosso dia a dia",
+      "source": "random"
+    },
+    {
+      "id": "foto-113",
+      "date": "2026-06-12",
+      "title": "Nossos momentos",
+      "caption": "Um daqueles registros espontâneos que talvez não tenham legenda perfeita, mas têm exatamente a nossa cara.",
+      "image": "./fotos/WhatsApp%20Image%202026-06-12%20at%2001.45.13%20(2).jpeg",
+      "alt": "Foto de nossos momentos do casal",
+      "tags": [
+        "2026",
+        "nossos momentos"
+      ],
+      "location": "Nosso dia a dia",
+      "source": "random"
+    },
+    {
+      "id": "foto-114",
+      "date": "2026-06-12",
+      "title": "Nossos momentos",
+      "caption": "Um daqueles registros espontâneos que talvez não tenham legenda perfeita, mas têm exatamente a nossa cara.",
+      "image": "./fotos/WhatsApp%20Image%202026-06-12%20at%2001.45.13%20(3).jpeg",
+      "alt": "Foto de nossos momentos do casal",
+      "tags": [
+        "2026",
+        "nossos momentos"
+      ],
+      "location": "Nosso dia a dia",
+      "source": "random"
+    },
+    {
+      "id": "foto-115",
+      "date": "2026-06-12",
+      "title": "Nossos momentos",
+      "caption": "Um daqueles registros espontâneos que talvez não tenham legenda perfeita, mas têm exatamente a nossa cara.",
+      "image": "./fotos/WhatsApp%20Image%202026-06-12%20at%2001.45.13%20(10).jpeg",
+      "alt": "Foto de nossos momentos do casal",
+      "tags": [
+        "2026",
+        "nossos momentos"
+      ],
+      "location": "Nosso dia a dia",
+      "source": "random"
+    },
+    {
+      "id": "foto-116",
+      "date": "2026-06-12",
+      "title": "Nossos momentos",
+      "caption": "Um daqueles registros espontâneos que talvez não tenham legenda perfeita, mas têm exatamente a nossa cara.",
+      "image": "./fotos/WhatsApp%20Image%202026-06-12%20at%2001.45.13%20(11).jpeg",
+      "alt": "Foto de nossos momentos do casal",
+      "tags": [
+        "2026",
+        "nossos momentos"
+      ],
+      "location": "Nosso dia a dia",
+      "source": "random"
+    },
+    {
+      "id": "foto-117",
+      "date": "2026-06-12",
+      "title": "Nossos momentos",
+      "caption": "Um daqueles registros espontâneos que talvez não tenham legenda perfeita, mas têm exatamente a nossa cara.",
+      "image": "./fotos/WhatsApp%20Image%202026-06-12%20at%2001.45.13%20(12).jpeg",
+      "alt": "Foto de nossos momentos do casal",
+      "tags": [
+        "2026",
+        "nossos momentos"
+      ],
+      "location": "Nosso dia a dia",
+      "source": "random"
+    },
+    {
+      "id": "foto-118",
+      "date": "2026-06-12",
+      "title": "Nossos momentos",
+      "caption": "Um daqueles registros espontâneos que talvez não tenham legenda perfeita, mas têm exatamente a nossa cara.",
+      "image": "./fotos/WhatsApp%20Image%202026-06-12%20at%2001.45.13%20(13).jpeg",
+      "alt": "Foto de nossos momentos do casal",
+      "tags": [
+        "2026",
+        "nossos momentos"
+      ],
+      "location": "Nosso dia a dia",
+      "source": "random"
+    },
+    {
+      "id": "foto-119",
+      "date": "2026-06-12",
+      "title": "Nossos momentos",
+      "caption": "Um daqueles registros espontâneos que talvez não tenham legenda perfeita, mas têm exatamente a nossa cara.",
+      "image": "./fotos/WhatsApp%20Image%202026-06-12%20at%2001.45.13%20(14).jpeg",
+      "alt": "Foto de nossos momentos do casal",
+      "tags": [
+        "2026",
+        "nossos momentos"
+      ],
+      "location": "Nosso dia a dia",
+      "source": "random"
+    },
+    {
+      "id": "foto-120",
+      "date": "2026-06-12",
+      "title": "Nossos momentos",
+      "caption": "Um daqueles registros espontâneos que talvez não tenham legenda perfeita, mas têm exatamente a nossa cara.",
+      "image": "./fotos/WhatsApp%20Image%202026-06-12%20at%2001.45.13%20(15).jpeg",
+      "alt": "Foto de nossos momentos do casal",
+      "tags": [
+        "2026",
+        "nossos momentos"
+      ],
+      "location": "Nosso dia a dia",
+      "source": "random"
+    },
+    {
+      "id": "foto-121",
+      "date": "2026-06-12",
+      "title": "Nossos momentos",
+      "caption": "Um daqueles registros espontâneos que talvez não tenham legenda perfeita, mas têm exatamente a nossa cara.",
+      "image": "./fotos/WhatsApp%20Image%202026-06-12%20at%2001.45.13.jpeg",
+      "alt": "Foto de nossos momentos do casal",
+      "tags": [
+        "2026",
+        "nossos momentos"
+      ],
+      "location": "Nosso dia a dia",
+      "source": "random"
+    },
+    {
+      "id": "foto-122",
+      "date": "2026-06-12",
+      "title": "Nossos momentos",
+      "caption": "Um daqueles registros espontâneos que talvez não tenham legenda perfeita, mas têm exatamente a nossa cara.",
+      "image": "./fotos/WhatsApp%20Image%202026-06-12%20at%2001.45.14%20(1).jpeg",
+      "alt": "Foto de nossos momentos do casal",
+      "tags": [
+        "2026",
+        "nossos momentos"
+      ],
+      "location": "Nosso dia a dia",
+      "source": "random"
+    },
+    {
+      "id": "foto-123",
+      "date": "2026-06-12",
+      "title": "Nossos momentos",
+      "caption": "Um daqueles registros espontâneos que talvez não tenham legenda perfeita, mas têm exatamente a nossa cara.",
+      "image": "./fotos/WhatsApp%20Image%202026-06-12%20at%2001.45.14%20(2).jpeg",
+      "alt": "Foto de nossos momentos do casal",
+      "tags": [
+        "2026",
+        "nossos momentos"
+      ],
+      "location": "Nosso dia a dia",
+      "source": "random"
+    },
+    {
+      "id": "foto-124",
+      "date": "2026-06-12",
+      "title": "Nossos momentos",
+      "caption": "Um daqueles registros espontâneos que talvez não tenham legenda perfeita, mas têm exatamente a nossa cara.",
+      "image": "./fotos/WhatsApp%20Image%202026-06-12%20at%2001.45.14%20(3).jpeg",
+      "alt": "Foto de nossos momentos do casal",
+      "tags": [
+        "2026",
+        "nossos momentos"
+      ],
+      "location": "Nosso dia a dia",
+      "source": "random"
+    },
+    {
+      "id": "foto-125",
+      "date": "2026-06-12",
+      "title": "Nossos momentos",
+      "caption": "Um daqueles registros espontâneos que talvez não tenham legenda perfeita, mas têm exatamente a nossa cara.",
+      "image": "./fotos/WhatsApp%20Image%202026-06-12%20at%2001.45.14%20(4).jpeg",
+      "alt": "Foto de nossos momentos do casal",
+      "tags": [
+        "2026",
+        "nossos momentos"
+      ],
+      "location": "Nosso dia a dia",
+      "source": "random"
+    },
+    {
+      "id": "foto-126",
+      "date": "2026-06-12",
+      "title": "Nossos momentos",
+      "caption": "Um daqueles registros espontâneos que talvez não tenham legenda perfeita, mas têm exatamente a nossa cara.",
+      "image": "./fotos/WhatsApp%20Image%202026-06-12%20at%2001.45.14%20(5).jpeg",
+      "alt": "Foto de nossos momentos do casal",
+      "tags": [
+        "2026",
+        "nossos momentos"
+      ],
+      "location": "Nosso dia a dia",
+      "source": "random"
+    },
+    {
+      "id": "foto-127",
+      "date": "2026-06-12",
+      "title": "Nossos momentos",
+      "caption": "Um daqueles registros espontâneos que talvez não tenham legenda perfeita, mas têm exatamente a nossa cara.",
+      "image": "./fotos/WhatsApp%20Image%202026-06-12%20at%2001.45.14%20(6).jpeg",
+      "alt": "Foto de nossos momentos do casal",
+      "tags": [
+        "2026",
+        "nossos momentos"
+      ],
+      "location": "Nosso dia a dia",
+      "source": "random"
+    },
+    {
+      "id": "foto-128",
+      "date": "2026-06-12",
+      "title": "Nossos momentos",
+      "caption": "Um daqueles registros espontâneos que talvez não tenham legenda perfeita, mas têm exatamente a nossa cara.",
+      "image": "./fotos/WhatsApp%20Image%202026-06-12%20at%2001.45.14%20(7).jpeg",
+      "alt": "Foto de nossos momentos do casal",
+      "tags": [
+        "2026",
+        "nossos momentos"
+      ],
+      "location": "Nosso dia a dia",
+      "source": "random"
+    },
+    {
+      "id": "foto-129",
+      "date": "2026-06-12",
+      "title": "Nossos momentos",
+      "caption": "Um daqueles registros espontâneos que talvez não tenham legenda perfeita, mas têm exatamente a nossa cara.",
+      "image": "./fotos/WhatsApp%20Image%202026-06-12%20at%2001.45.14%20(8).jpeg",
+      "alt": "Foto de nossos momentos do casal",
+      "tags": [
+        "2026",
+        "nossos momentos"
+      ],
+      "location": "Nosso dia a dia",
+      "source": "random"
+    },
+    {
+      "id": "foto-130",
+      "date": "2026-06-12",
+      "title": "Nossos momentos",
+      "caption": "Um daqueles registros espontâneos que talvez não tenham legenda perfeita, mas têm exatamente a nossa cara.",
+      "image": "./fotos/WhatsApp%20Image%202026-06-12%20at%2001.45.14%20(9).jpeg",
+      "alt": "Foto de nossos momentos do casal",
+      "tags": [
+        "2026",
+        "nossos momentos"
+      ],
+      "location": "Nosso dia a dia",
+      "source": "random"
+    },
+    {
+      "id": "foto-131",
+      "date": "2026-06-12",
+      "title": "Nossos momentos",
+      "caption": "Um daqueles registros espontâneos que talvez não tenham legenda perfeita, mas têm exatamente a nossa cara.",
+      "image": "./fotos/WhatsApp%20Image%202026-06-12%20at%2001.45.14%20(10).jpeg",
+      "alt": "Foto de nossos momentos do casal",
+      "tags": [
+        "2026",
+        "nossos momentos"
+      ],
+      "location": "Nosso dia a dia",
+      "source": "random"
+    },
+    {
+      "id": "foto-132",
+      "date": "2026-06-12",
+      "title": "Nossos momentos",
+      "caption": "Um daqueles registros espontâneos que talvez não tenham legenda perfeita, mas têm exatamente a nossa cara.",
+      "image": "./fotos/WhatsApp%20Image%202026-06-12%20at%2001.45.14%20(11).jpeg",
+      "alt": "Foto de nossos momentos do casal",
+      "tags": [
+        "2026",
+        "nossos momentos"
+      ],
+      "location": "Nosso dia a dia",
+      "source": "random"
+    },
+    {
+      "id": "foto-133",
+      "date": "2026-06-12",
+      "title": "Nossos momentos",
+      "caption": "Um daqueles registros espontâneos que talvez não tenham legenda perfeita, mas têm exatamente a nossa cara.",
+      "image": "./fotos/WhatsApp%20Image%202026-06-12%20at%2001.45.14%20(12).jpeg",
+      "alt": "Foto de nossos momentos do casal",
+      "tags": [
+        "2026",
+        "nossos momentos"
+      ],
+      "location": "Nosso dia a dia",
+      "source": "random"
+    },
+    {
+      "id": "foto-134",
+      "date": "2026-06-12",
+      "title": "Nossos momentos",
+      "caption": "Um daqueles registros espontâneos que talvez não tenham legenda perfeita, mas têm exatamente a nossa cara.",
+      "image": "./fotos/WhatsApp%20Image%202026-06-12%20at%2001.45.14.jpeg",
+      "alt": "Foto de nossos momentos do casal",
+      "tags": [
+        "2026",
+        "nossos momentos"
+      ],
+      "location": "Nosso dia a dia",
+      "source": "random"
+    },
+    {
+      "id": "foto-135",
+      "date": "2026-06-12",
+      "title": "Nossos momentos",
+      "caption": "Um daqueles registros espontâneos que talvez não tenham legenda perfeita, mas têm exatamente a nossa cara.",
+      "image": "./fotos/WhatsApp%20Image%202026-06-12%20at%2001.45.15%20(3).jpeg",
+      "alt": "Foto de nossos momentos do casal",
+      "tags": [
+        "2026",
+        "nossos momentos"
+      ],
+      "location": "Nosso dia a dia",
+      "source": "random"
+    },
+    {
+      "id": "foto-136",
+      "date": "2026-06-12",
+      "title": "Nossos momentos",
+      "caption": "Um daqueles registros espontâneos que talvez não tenham legenda perfeita, mas têm exatamente a nossa cara.",
+      "image": "./fotos/WhatsApp%20Image%202026-06-12%20at%2001.45.15%20(4).jpeg",
+      "alt": "Foto de nossos momentos do casal",
+      "tags": [
+        "2026",
+        "nossos momentos"
+      ],
+      "location": "Nosso dia a dia",
+      "source": "random"
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1125">
+  <linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#ff8a68"/><stop offset=".52" stop-color="#21141d"/><stop offset="1" stop-color="#120b16"/></linearGradient><rect width="900" height="1125" fill="url(#g)"/><path d="M450 460 260 1125h380L450 460z" fill="#fff8f5" opacity=".16"/><path d="M450 460v665" stroke="#f6c36a" stroke-width="10" stroke-dasharray="32 28"/><circle cx="450" cy="310" r="110" fill="#f6c36a" opacity=".74"/><text x="450" y="1010" text-anchor="middle" font-family="Arial" font-size="44" font-weight="700" fill="#fff8f5">Estrada aberta</text>
+</svg>

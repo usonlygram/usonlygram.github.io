@@ -1,0 +1,3 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1125">
+  <linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#8fe7d1"/><stop offset=".48" stop-color="#fff8f5"/><stop offset=".49" stop-color="#ff8a68"/><stop offset="1" stop-color="#21141d"/></linearGradient><rect width="900" height="1125" fill="url(#g)"/><circle cx="720" cy="190" r="82" fill="#f6c36a"/><path d="M0 540c190-54 330 54 510 0 126-38 248-28 390 28v140H0z" fill="#fff8f5" opacity=".5"/><path d="M335 762c35-60 195-60 230 0" stroke="#120b16" stroke-width="20" fill="none" stroke-linecap="round"/><text x="450" y="1010" text-anchor="middle" font-family="Arial" font-size="44" font-weight="700" fill="#fff8f5">Viagem azul</text>
+</svg>
