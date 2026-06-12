@@ -126,7 +126,20 @@ const renderTimeline = (store) => {
 };
 
 const renderStory = (store) => {
+  const { couple } = store.data;
+  const days = daysTogether(couple.relationshipStart);
   $("#story").innerHTML = `
+    <div class="hero-panel reveal">
+      <div>
+        <p class="eyebrow">nossa jornada</p>
+        <h1>Cada dia com você é uma vitória.</h1>
+        <p>Desde o primeiro encontro até agora, cada momento foi uma escolha de ficar perto e construir algo bonito juntos.</p>
+      </div>
+      <div class="hero-card" aria-label="Dias juntos">
+        <span>${days}</span>
+        <small>dias juntos</small>
+      </div>
+    </div>
     <div class="story-list">
       ${store.data.story
         .map(
